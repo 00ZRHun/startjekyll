@@ -10,4 +10,4 @@ A guide to getting started with Jekyll.
 - Deploy a Jekyll site to GitHub pages
 
 ## Author
-- [HUn Zu Rong][https://github.com/00ZRHun]
+- [HUn Zu Rong](https://github.com/00ZRHun)
